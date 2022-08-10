@@ -6,3 +6,4 @@ file 3 add in develop branch
 add data first time
 add data after push and push again 
 3 time psuh
+3rd time change use stash
